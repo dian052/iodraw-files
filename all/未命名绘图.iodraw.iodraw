@@ -7,7 +7,7 @@
         <mxCell id="wYg2PMYY0WFT3xx1YsYJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYg2PMYY0WFT3xx1YsYJ-1" target="wYg2PMYY0WFT3xx1YsYJ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYg2PMYY0WFT3xx1YsYJ-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wYg2PMYY0WFT3xx1YsYJ-3">
+        <mxCell id="wYg2PMYY0WFT3xx1YsYJ-4" value="MCP 协议消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wYg2PMYY0WFT3xx1YsYJ-3">
           <mxGeometry x="-0.0108" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
