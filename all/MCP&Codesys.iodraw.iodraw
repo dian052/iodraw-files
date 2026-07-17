@@ -59,10 +59,10 @@
           <mxGeometry x="30" y="660" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6sAViFN4oJgf9UXAxzAZ-4" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;调用&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;（MCP Server 工具）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="660" width="120" height="50" as="geometry" />
+          <mxGeometry x="210" y="660" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6sAViFN4oJgf9UXAxzAZ-5" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;AI客户端&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;（输入指令）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="660" width="120" height="50" as="geometry" />
+        <mxCell id="6sAViFN4oJgf9UXAxzAZ-5" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;生成程序&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="660" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6sAViFN4oJgf9UXAxzAZ-6" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;AI客户端&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;（输入指令）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="660" width="120" height="50" as="geometry" />
