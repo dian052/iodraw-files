@@ -76,6 +76,9 @@
         <mxCell id="6sAViFN4oJgf9UXAxzAZ-6" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;执行到CODSYS iDE&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="410" width="170" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6sAViFN4oJgf9UXAxzAZ-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
