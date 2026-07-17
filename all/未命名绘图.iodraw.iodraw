@@ -7,7 +7,7 @@
         <mxCell id="wYg2PMYY0WFT3xx1YsYJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYg2PMYY0WFT3xx1YsYJ-1" target="wYg2PMYY0WFT3xx1YsYJ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wYg2PMYY0WFT3xx1YsYJ-4" value="MCP 协议消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wYg2PMYY0WFT3xx1YsYJ-3">
+        <mxCell id="wYg2PMYY0WFT3xx1YsYJ-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MCP 协议消息&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wYg2PMYY0WFT3xx1YsYJ-3">
           <mxGeometry x="-0.0108" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -17,6 +17,9 @@
         </mxCell>
         <mxCell id="wYg2PMYY0WFT3xx1YsYJ-2" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;MCP Host（VsCode&amp;amp;Cline&amp;nbsp; 、WorkBuddy）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="350" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wYg2PMYY0WFT3xx1YsYJ-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="50" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
