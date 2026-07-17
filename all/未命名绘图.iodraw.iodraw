@@ -24,6 +24,9 @@
         <mxCell id="wYg2PMYY0WFT3xx1YsYJ-6" value="Server" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="136" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="wYg2PMYY0WFT3xx1YsYJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYg2PMYY0WFT3xx1YsYJ-7" target="wYg2PMYY0WFT3xx1YsYJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wYg2PMYY0WFT3xx1YsYJ-7" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;MCP Client&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;（协议通信组件）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="480" width="160" height="110" as="geometry" />
         </mxCell>
