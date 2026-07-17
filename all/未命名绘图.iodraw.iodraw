@@ -19,7 +19,17 @@
           <mxGeometry x="30" y="350" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wYg2PMYY0WFT3xx1YsYJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYg2PMYY0WFT3xx1YsYJ-2" target="wYg2PMYY0WFT3xx1YsYJ-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="640" />
+              <mxPoint x="110" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wYg2PMYY0WFT3xx1YsYJ-11" value="stdio/HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wYg2PMYY0WFT3xx1YsYJ-10">
+          <mxGeometry x="0.0382" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wYg2PMYY0WFT3xx1YsYJ-2" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;MCP Server&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 15px;&quot;&gt;（Codesys IDE）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="350" width="160" height="110" as="geometry" />
