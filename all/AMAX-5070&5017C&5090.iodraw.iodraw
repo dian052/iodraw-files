@@ -8,10 +8,10 @@
           <mxGeometry x="350" y="90" width="164.89" height="121.24" as="geometry" />
         </mxCell>
         <mxCell id="jl4EfBVZERjQjdj38Tp_-4" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.sensor;" vertex="1" parent="1">
-          <mxGeometry x="150" y="280" width="50" height="50" as="geometry" />
+          <mxGeometry x="380" y="260" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jl4EfBVZERjQjdj38Tp_-5" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.flow_sensor;" vertex="1" parent="1">
-          <mxGeometry x="310" y="260" width="50" height="50" as="geometry" />
+          <mxGeometry x="310" y="250" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
