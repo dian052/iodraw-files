@@ -10,11 +10,13 @@
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jl4EfBVZERjQjdj38Tp_-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="857" y="600" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="870" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jl4EfBVZERjQjdj38Tp_-7" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.flow_sensor;" parent="1" vertex="1">
-          <mxGeometry x="859.9999999999999" y="687" width="40" height="40" as="geometry" />
+          <mxGeometry x="849.9999999999999" y="687" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
