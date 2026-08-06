@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jl4EfBVZERjQjdj38Tp_-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://advdownload.advantech.com.cn/productfile/PIS/AMAX-5070/Product%20-%20Photo(B)/AMAX-5070_220230414173731.png;clipPath=inset(9.33% 61.67% 8.67% 13.67%);" vertex="1" parent="1">
-          <mxGeometry x="70" y="40" width="108.29" height="360" as="geometry" />
+          <mxGeometry x="150" y="100" width="72.19" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jl4EfBVZERjQjdj38Tp_-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://advdownload.advantech.com.cn/productfile/PIS/AMAX-5070/Product%20-%20Photo(B)/AMAX-5070_220230414173731.png;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="820" height="820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
