@@ -10,10 +10,11 @@
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jl4EfBVZERjQjdj38Tp_-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="857" y="600" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jl4EfBVZERjQjdj38Tp_-7" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.flow_sensor;" parent="1" vertex="1">
-          <mxGeometry x="836.8599999999999" y="687" width="40" height="40" as="geometry" />
+          <mxGeometry x="859.9999999999999" y="687" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -43,13 +44,13 @@
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-4" value="1*AMAX-5090" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hBcXebkMd-MZNV9mCeJJ-1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hBcXebkMd-MZNV9mCeJJ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hBcXebkMd-MZNV9mCeJJ-5">
+        <mxCell id="hBcXebkMd-MZNV9mCeJJ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="600" as="targetPoint" />
+            <mxPoint x="910" y="600.3" as="targetPoint" />
+            <mxPoint x="989.301204819277" y="689.6999999999999" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="989" y="670" />
-              <mxPoint x="911" y="670" />
-              <mxPoint x="911" y="600" />
+              <mxPoint x="989" y="670.3" />
+              <mxPoint x="910" y="670.3" />
             </Array>
           </mxGeometry>
         </mxCell>
