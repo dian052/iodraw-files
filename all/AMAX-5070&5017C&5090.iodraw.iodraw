@@ -221,8 +221,14 @@
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-82" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
           <mxGeometry x="1090" y="610" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
+        <mxCell id="hBcXebkMd-MZNV9mCeJJ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hBcXebkMd-MZNV9mCeJJ-83" target="jl4EfBVZERjQjdj38Tp_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-83" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="728.6600000000001" y="270" width="147.56" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hBcXebkMd-MZNV9mCeJJ-84" value="&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; line-height: 24px; text-align: left; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Human-Machine Interface&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="747.44" y="300" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
