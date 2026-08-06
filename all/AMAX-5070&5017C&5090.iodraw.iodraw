@@ -87,19 +87,19 @@
           <mxGeometry x="394" y="490" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-28" value="6-channel sensing module 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="410" y="529" width="160" height="30" as="geometry" />
+          <mxGeometry x="394" y="540" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-29" value="6-channel sensing module 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="410" y="579" width="160" height="30" as="geometry" />
+          <mxGeometry x="394" y="590" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-30" value="6-channel sensing module 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="410" y="629" width="160" height="30" as="geometry" />
+          <mxGeometry x="394" y="640" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-31" value="6-channel sensing module 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="410" y="679" width="160" height="30" as="geometry" />
+          <mxGeometry x="394" y="690" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-32" value="6-channel sensing module 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="410" y="740" width="160" height="30" as="geometry" />
+          <mxGeometry x="394" y="740" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
