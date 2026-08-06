@@ -54,7 +54,7 @@
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-14" value="AMAX-5017C/6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="670" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hBcXebkMd-MZNV9mCeJJ-16" value="AMAX-5090" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="hBcXebkMd-MZNV9mCeJJ-16" value="AMAX-5090/1port" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="720" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
