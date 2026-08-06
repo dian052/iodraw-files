@@ -162,7 +162,10 @@
           <mxGeometry x="180" y="980" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hBcXebkMd-MZNV9mCeJJ-55" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="314.5" y="415" width="125" height="95" as="geometry" />
+          <mxGeometry x="314.5" y="447.5" width="125" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="hBcXebkMd-MZNV9mCeJJ-57" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
