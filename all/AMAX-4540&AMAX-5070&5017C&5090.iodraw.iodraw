@@ -248,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6j5tXPX9nsbGpPlWFjMm" name="AMAX-4540 ">
-    <mxGraphModel dx="917" dy="52" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -501,7 +501,7 @@
           <mxGeometry x="61" y="440" width="91.11" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5K9Co1T3OJju0SMiEX3l-69" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://advdownload.advantech.com.cn/productfile/PIS/AMAX-5074/Product%20-%20Photo(Main)/AMAX-507420200214191713.jpg;clipPath=inset(0% 30.67% 0% 29.33%);" vertex="1" parent="1">
-          <mxGeometry x="160" y="585" width="12" height="30" as="geometry" />
+          <mxGeometry x="170" y="587.5" width="10" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
