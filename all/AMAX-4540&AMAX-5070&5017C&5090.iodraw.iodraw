@@ -248,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6j5tXPX9nsbGpPlWFjMm" name="AMAX-4540 ">
-    <mxGraphModel dx="266" dy="155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="43" dy="25" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -498,10 +498,10 @@
         <mxCell id="5K9Co1T3OJju0SMiEX3l-69" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://advdownload.advantech.com.cn/productfile/PIS/AMAX-5074/Product%20-%20Photo(Main)/AMAX-507420200214191713.jpg;clipPath=inset(0% 30.67% 0% 29.33%);" vertex="1" parent="1">
           <mxGeometry x="170" y="587.5" width="10" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5K9Co1T3OJju0SMiEX3l-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.494;exitY=-0.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5K9Co1T3OJju0SMiEX3l-15">
+        <mxCell id="5K9Co1T3OJju0SMiEX3l-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="106.34714285714277" y="520" as="targetPoint" />
-            <mxPoint x="106.49" y="590" as="sourcePoint" />
+            <mxPoint x="106" y="580" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="106" y="584" />
               <mxPoint x="106" y="553" />
