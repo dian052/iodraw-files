@@ -500,8 +500,8 @@
         <mxCell id="5K9Co1T3OJju0SMiEX3l-68" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://advdownload.advantech.com.cn/productfile/PIS/AMAX-4540/Product%20-%20Photo(B)/ECU-1170_08-20250703171302.png;clipPath=inset(9.52% 9% 10.12% 9%);" vertex="1" parent="1">
           <mxGeometry x="61" y="440" width="91.11" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5K9Co1T3OJju0SMiEX3l-69" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://advdownload.advantech.com.cn/productfile/PIS/AMAX-5074/Product%20-%20Photo(Main)/AMAX-507420200214191713.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="433" width="440" height="440" as="geometry" />
+        <mxCell id="5K9Co1T3OJju0SMiEX3l-69" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://advdownload.advantech.com.cn/productfile/PIS/AMAX-5074/Product%20-%20Photo(Main)/AMAX-507420200214191713.jpg;clipPath=inset(0% 30.67% 0% 29.33%);" vertex="1" parent="1">
+          <mxGeometry x="-60" y="575" width="14" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
