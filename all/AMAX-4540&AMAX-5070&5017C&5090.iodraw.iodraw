@@ -248,15 +248,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6j5tXPX9nsbGpPlWFjMm" name="AMAX-4540 ">
-    <mxGraphModel dx="1048" dy="129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="https://advdownload.advantech.com.cn/productfile/PIS/AMAX-4540/Product%20-%20Photo(B)/ECU-1170_08-20250703171302.png" link="https://advdownload.advantech.com.cn/productfile/PIS/AMAX-4540/Product%20-%20Photo(B)/ECU-1170_08-20250703171302.png" id="5K9Co1T3OJju0SMiEX3l-1">
-          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-            <mxGeometry x="10" y="230" width="660" height="952.5" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="5K9Co1T3OJju0SMiEX3l-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="670" y="230" width="360" height="952.5" as="geometry" />
         </mxCell>
