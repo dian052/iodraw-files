@@ -5,19 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="90" width="790" height="530" as="geometry" />
+          <mxGeometry y="80" width="790" height="530" as="geometry" />
         </mxCell>
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://advdownload.advantech.com.cn/productfile/PIS/ECU-150/Product%20-%20Photo(B)/ECU-150_03--_P_V2-(1)20230904170601.png;clipPath=inset(5.67% 23.33% 5.33% 28.67%);" vertex="1" parent="1">
-          <mxGeometry x="-70" y="120" width="53.93" height="100" as="geometry" />
+          <mxGeometry x="50" y="110" width="53.93" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-3" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;功能框图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="100" width="210" height="30" as="geometry" />
+          <mxGeometry x="290" y="90" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-4" value="Modbus TCP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-5" value="S7" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
