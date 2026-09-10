@@ -16,7 +16,7 @@
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-4" value="Modbus TCP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PFbEi_dpviFC2Rwa0Qi0-5">
+        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="PFbEi_dpviFC2Rwa0Qi0-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310.1428571428571" y="410" as="targetPoint" />
           </mxGeometry>
@@ -39,7 +39,7 @@
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PFbEi_dpviFC2Rwa0Qi0-17">
+        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="PFbEi_dpviFC2Rwa0Qi0-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="465" y="410" as="targetPoint" />
           </mxGeometry>
@@ -56,7 +56,7 @@
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.539;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PFbEi_dpviFC2Rwa0Qi0-21" target="PFbEi_dpviFC2Rwa0Qi0-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.13;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PFbEi_dpviFC2Rwa0Qi0-4" target="PFbEi_dpviFC2Rwa0Qi0-10">
+        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.13;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="PFbEi_dpviFC2Rwa0Qi0-4" target="PFbEi_dpviFC2Rwa0Qi0-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
