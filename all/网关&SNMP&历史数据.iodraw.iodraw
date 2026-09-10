@@ -60,7 +60,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-27" value="SNMP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="251" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-28" value="Datalogger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561.96" y="310" width="198.04" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
