@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://advdownload.advantech.com.cn/productfile/PIS/ECU-150/Product%20-%20Photo(B)/ECU-150_03--_P_V2-(1)20230904170601.png;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="821" height="820" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
