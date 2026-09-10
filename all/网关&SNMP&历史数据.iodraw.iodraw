@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="80" width="790" height="530" as="geometry" />
+        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry y="80" width="790" height="530" as="geometry" />
         </mxCell>
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://advdownload.advantech.com.cn/productfile/PIS/ECU-150/Product%20-%20Photo(B)/ECU-150_03--_P_V2-(1)20230904170601.png;clipPath=inset(5.67% 23.33% 5.33% 28.67%);" vertex="1" parent="1">
           <mxGeometry x="50" y="110" width="53.93" height="100" as="geometry" />
@@ -15,6 +15,11 @@
         </mxCell>
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="PFbEi_dpviFC2Rwa0Qi0-4" target="PFbEi_dpviFC2Rwa0Qi0-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PFbEi_dpviFC2Rwa0Qi0-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-4" value="Modbus TCP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="250" width="120" height="60" as="geometry" />
