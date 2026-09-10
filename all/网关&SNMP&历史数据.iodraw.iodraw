@@ -41,7 +41,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-21" value="其他设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.539;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PFbEi_dpviFC2Rwa0Qi0-21" target="PFbEi_dpviFC2Rwa0Qi0-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
