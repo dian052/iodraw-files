@@ -36,9 +36,6 @@
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-9" value="SNMP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="258" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PFbEi_dpviFC2Rwa0Qi0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="PFbEi_dpviFC2Rwa0Qi0-10" target="PFbEi_dpviFC2Rwa0Qi0-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PFbEi_dpviFC2Rwa0Qi0-10" value="Data Center" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="221" width="140" height="330" as="geometry" />
         </mxCell>
