@@ -22,6 +22,9 @@
         <mxCell id="2bd3RsmSqfLDXate1DUL-6" value="信号发生器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="208" y="-40" width="340" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2bd3RsmSqfLDXate1DUL-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2bd3RsmSqfLDXate1DUL-7" target="2bd3RsmSqfLDXate1DUL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2bd3RsmSqfLDXate1DUL-7" value="CH2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="458" y="-30" width="40" height="50" as="geometry" />
         </mxCell>
