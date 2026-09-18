@@ -13,6 +13,9 @@
         <mxCell id="l-tHGr_5JDHNC0lfTQac-2" value="PLC1-15&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="740" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="l-tHGr_5JDHNC0lfTQac-4" value="&lt;div&gt;ECU-1051TL&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="720" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
