@@ -123,6 +123,9 @@
             <mxPoint x="560" y="318.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EsF-Tr-Y3QB-7C45FCk4-11" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="339" width="30" height="16.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
