@@ -100,7 +100,10 @@
           <mxGeometry x="320" y="160" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EsF-Tr-Y3QB-7C45FCk4-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;EdgeHub Utility +EPNClient&lt;/div&gt;&lt;/div&gt;&lt;div&gt;EPN&amp;nbsp; IP：10.8.0.4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="585" width="270" height="185" as="geometry" />
+          <mxGeometry x="50" y="290" width="230" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="EsF-Tr-Y3QB-7C45FCk4-6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="352" width="30" height="16.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
