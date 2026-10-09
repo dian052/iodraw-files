@@ -76,7 +76,7 @@
           <mxGeometry x="225" y="680" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cAYeyKU1jLVgZtZJ2iF4-8" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="430" y="670" width="40" height="40" as="geometry" />
+          <mxGeometry x="520" y="680" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cAYeyKU1jLVgZtZJ2iF4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" parent="1" source="cAYeyKU1jLVgZtZJ2iF4-10" target="cAYeyKU1jLVgZtZJ2iF4-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,8 +131,8 @@
         </mxCell>
         <mxCell id="EsF-Tr-Y3QB-7C45FCk4-17" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CC0066;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="600" as="sourcePoint" />
-            <mxPoint x="740" y="720" as="targetPoint" />
+            <mxPoint x="520" y="460" as="sourcePoint" />
+            <mxPoint x="520" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
