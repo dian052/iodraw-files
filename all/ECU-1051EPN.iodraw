@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cAYeyKU1jLVgZtZJ2iF4-12" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
-          <mxGeometry x="70" y="180" width="170" height="110" as="geometry" />
+          <mxGeometry x="10" y="240" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cAYeyKU1jLVgZtZJ2iF4-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;北京&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=6;" parent="1" vertex="1">
           <mxGeometry x="440" y="752.5" width="60" height="47.5" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry x="320" y="160" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EsF-Tr-Y3QB-7C45FCk4-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;EdgeHub Utility +EPNClient&lt;/div&gt;&lt;/div&gt;&lt;div&gt;EPN&amp;nbsp; IP：10.8.0.4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="290" width="230" height="65" as="geometry" />
+          <mxGeometry x="-10" y="290" width="230" height="65" as="geometry" />
         </mxCell>
         <mxCell id="EsF-Tr-Y3QB-7C45FCk4-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-290" y="149.25" width="230" height="70.75" as="geometry" />
