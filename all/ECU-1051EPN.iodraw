@@ -117,20 +117,17 @@
             <mxPoint x="550" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EsF-Tr-Y3QB-7C45FCk4-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CC0066;" edge="1" parent="1" source="EsF-Tr-Y3QB-7C45FCk4-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="201.5" as="sourcePoint" />
-            <mxPoint x="560" y="318.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EsF-Tr-Y3QB-7C45FCk4-13" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CC0066;" edge="1" parent="1" target="EsF-Tr-Y3QB-7C45FCk4-11">
+        <mxCell id="EsF-Tr-Y3QB-7C45FCk4-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CC0066;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="201.5" as="sourcePoint" />
             <mxPoint x="560" y="318.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EsF-Tr-Y3QB-7C45FCk4-11" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="560" y="210" width="30" height="16.5" as="geometry" />
+          <mxGeometry x="560" y="206.38" width="30" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EsF-Tr-Y3QB-7C45FCk4-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="500" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
