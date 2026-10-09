@@ -141,8 +141,8 @@
             <mxPoint x="370" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EsF-Tr-Y3QB-7C45FCk4-19" value="&lt;b&gt;发送到10.176.1.3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="990" width="130" height="30" as="geometry" />
+        <mxCell id="EsF-Tr-Y3QB-7C45FCk4-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;转换10.176.1.3 到192.168.1.220&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="630" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
