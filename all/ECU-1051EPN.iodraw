@@ -63,11 +63,8 @@
         <mxCell id="EsF-Tr-Y3QB-7C45FCk4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cAYeyKU1jLVgZtZJ2iF4-3" target="cAYeyKU1jLVgZtZJ2iF4-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EsF-Tr-Y3QB-7C45FCk4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="309" y="585" as="sourcePoint" />
-            <mxPoint x="329" y="680" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="EsF-Tr-Y3QB-7C45FCk4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cAYeyKU1jLVgZtZJ2iF4-3" target="cAYeyKU1jLVgZtZJ2iF4-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cAYeyKU1jLVgZtZJ2iF4-3" value="交换机（EKI-2528）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="475" width="400" height="110" as="geometry" />
@@ -76,7 +73,7 @@
           <mxGeometry x="7" y="680" width="205" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cAYeyKU1jLVgZtZJ2iF4-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;ECU-1051TL（4G）&lt;div&gt;EPN IP:10.8.0.3&lt;br&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;&amp;nbsp;Physical IP:192.168.1.200&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="245" y="680" width="170" height="120" as="geometry" />
+          <mxGeometry x="225" y="680" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cAYeyKU1jLVgZtZJ2iF4-8" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="670" width="40" height="40" as="geometry" />
