@@ -19,7 +19,7 @@
             <mxPoint x="170" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jhOJkaRL5FSOsfppFWF0-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jhOJkaRL5FSOsfppFWF0-6" value="ModbusRtu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
