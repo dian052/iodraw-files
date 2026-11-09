@@ -185,8 +185,11 @@
         <mxCell id="HPYJhuCG_osNjI7sJqP8-21" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="550" y="153" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HPYJhuCG_osNjI7sJqP8-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="152" width="60" height="30" as="geometry" />
+        <mxCell id="HPYJhuCG_osNjI7sJqP8-22" value="S1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="148" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPYJhuCG_osNjI7sJqP8-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="123" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
