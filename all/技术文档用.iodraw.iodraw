@@ -133,9 +133,14 @@
             <mxPoint x="634" y="102" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HPYJhuCG_osNjI7sJqP8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.84;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HPYJhuCG_osNjI7sJqP8-11">
+        <mxCell id="HPYJhuCG_osNjI7sJqP8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.84;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270.66666666666663" y="100" as="targetPoint" />
+            <mxPoint x="270.66666666666663" y="102" as="targetPoint" />
+            <mxPoint x="270.69999999999993" y="126.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="270" y="102" />
+              <mxPoint x="270" y="102" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HPYJhuCG_osNjI7sJqP8-11" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;rotation=90;" vertex="1" parent="1">
