@@ -108,7 +108,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wU29Hs8ZG7J8sq7WHH41" name="第 4 页">
-    <mxGraphModel dx="478" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,6 +158,19 @@
         </mxCell>
         <mxCell id="HPYJhuCG_osNjI7sJqP8-17" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="330" y="153" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HPYJhuCG_osNjI7sJqP8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.84;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460.66666666666663" y="102" as="targetPoint" />
+            <mxPoint x="460.69999999999993" y="126.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="460" y="102" />
+              <mxPoint x="460" y="102" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HPYJhuCG_osNjI7sJqP8-19" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="430" y="152" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
