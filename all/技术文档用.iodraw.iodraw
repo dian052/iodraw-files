@@ -124,6 +124,15 @@
         <mxCell id="HPYJhuCG_osNjI7sJqP8-4" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="HPYJhuCG_osNjI7sJqP8-6">
           <mxGeometry x="5" y="3" width="10" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="HPYJhuCG_osNjI7sJqP8-8" value="DC24V+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HPYJhuCG_osNjI7sJqP8-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.864;exitY=0.943;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HPYJhuCG_osNjI7sJqP8-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="150" as="sourcePoint" />
+            <mxPoint x="340" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
