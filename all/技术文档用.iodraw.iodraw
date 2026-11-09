@@ -265,7 +265,10 @@
           <mxGeometry x="270" y="250" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="HPYJhuCG_osNjI7sJqP8-54" value="5kΩ&lt;div&gt;0.5w&lt;/div&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="290" width="100" height="10" as="geometry" />
+          <mxGeometry x="358.5" y="290" width="102.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="HPYJhuCG_osNjI7sJqP8-55" value="5kΩ&lt;div&gt;0.5w&lt;/div&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="330" width="100" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
