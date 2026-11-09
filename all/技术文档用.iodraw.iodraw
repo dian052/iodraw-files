@@ -108,7 +108,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wU29Hs8ZG7J8sq7WHH41" name="第 4 页">
-    <mxGraphModel dx="574" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,6 +141,11 @@
               <mxPoint x="270" y="102" />
               <mxPoint x="270" y="102" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HPYJhuCG_osNjI7sJqP8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.84;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HPYJhuCG_osNjI7sJqP8-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270.79999999999995" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HPYJhuCG_osNjI7sJqP8-11" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;rotation=90;" vertex="1" parent="1">
