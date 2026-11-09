@@ -145,7 +145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HPYJhuCG_osNjI7sJqP8-11" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="240" y="152" width="75" height="20" as="geometry" />
+          <mxGeometry x="245" y="17" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HPYJhuCG_osNjI7sJqP8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.84;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -241,7 +241,7 @@
           <mxGeometry x="143" y="260" width="27" height="10" as="geometry" />
         </mxCell>
         <mxCell id="HPYJhuCG_osNjI7sJqP8-42" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
-          <mxGeometry x="164" y="106" width="10" height="160" as="geometry" />
+          <mxGeometry x="164" y="-30" width="10" height="296" as="geometry" />
         </mxCell>
         <mxCell id="HPYJhuCG_osNjI7sJqP8-43" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="201" y="-50" width="30" height="30" as="geometry" />
