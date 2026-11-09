@@ -145,7 +145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HPYJhuCG_osNjI7sJqP8-11" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="245" y="17" width="75" height="20" as="geometry" />
+          <mxGeometry x="241" y="17" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HPYJhuCG_osNjI7sJqP8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.84;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HPYJhuCG_osNjI7sJqP8-17" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="330" y="153" width="75" height="20" as="geometry" />
+          <mxGeometry x="331" y="12" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HPYJhuCG_osNjI7sJqP8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.84;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
