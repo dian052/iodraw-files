@@ -267,7 +267,7 @@
         <mxCell id="HPYJhuCG_osNjI7sJqP8-56" value="S4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="521" y="12" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hy-zId_OByFMT70WWQML-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Hy-zId_OByFMT70WWQML-1">
+        <mxCell id="Hy-zId_OByFMT70WWQML-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Hy-zId_OByFMT70WWQML-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="117.88888888888891" as="targetPoint" />
           </mxGeometry>
@@ -275,7 +275,7 @@
         <mxCell id="Hy-zId_OByFMT70WWQML-1" value="5kΩ&lt;div&gt;0.5w&lt;/div&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" vertex="1" parent="1">
           <mxGeometry x="170" y="113" width="90" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Hy-zId_OByFMT70WWQML-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Hy-zId_OByFMT70WWQML-5">
+        <mxCell id="Hy-zId_OByFMT70WWQML-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Hy-zId_OByFMT70WWQML-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="174.90476190476193" as="targetPoint" />
           </mxGeometry>
@@ -291,8 +291,23 @@
         <mxCell id="Hy-zId_OByFMT70WWQML-6" value="5kΩ&lt;div&gt;0.5w&lt;/div&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" vertex="1" parent="1">
           <mxGeometry x="170" y="240" width="90" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="Hy-zId_OByFMT70WWQML-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Hy-zId_OByFMT70WWQML-1" target="Hy-zId_OByFMT70WWQML-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="117.88888888888891" as="targetPoint" />
+            <mxPoint x="260" y="118" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Hy-zId_OByFMT70WWQML-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="626" y="140" width="10" height="10" as="geometry" />
+          <mxGeometry x="356.64" y="113" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy-zId_OByFMT70WWQML-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Hy-zId_OByFMT70WWQML-5" target="Hy-zId_OByFMT70WWQML-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="174.90476190476193" as="targetPoint" />
+            <mxPoint x="260" y="175" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hy-zId_OByFMT70WWQML-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
